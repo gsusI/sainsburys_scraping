@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "fabpot/goutte": "v2.0.4"
+    }
+}
